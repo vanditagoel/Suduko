@@ -1,4 +1,4 @@
-![Sudoku Solver Screenshot](c:/Users/vandi/OneDrive/Pictures/Screenshots/Screenshot%202025-06-01%20164059.png)
+(Screenshot%202025-06-01%20164059.png)
 
 # Sudoku Solver
 
