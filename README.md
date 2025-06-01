@@ -1,3 +1,5 @@
+![Sudoku Solver Screenshot](c:/Users/vandi/OneDrive/Pictures/Screenshots/Screenshot%202025-06-01%20164059.png)
+
 # Sudoku Solver
 
 This project is a graphical Sudoku Solver built using Python and Pygame. It allows users to interactively solve Sudoku puzzles, enter their own values, reset the board, and visualize the solving process using a backtracking algorithm.
